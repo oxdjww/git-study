@@ -25,4 +25,3 @@ jobs:
         uses : actions/upload-artifact@v3
         with : 
           name : oxdjww-artifact
-          path : oxdjww_artifact.txt
